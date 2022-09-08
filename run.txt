@@ -1,0 +1,1 @@
+pyinstaller -F --icon=Redirector.ico --version-file file_version_info.txt Redirector.py
